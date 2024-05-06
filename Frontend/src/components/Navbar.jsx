@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Navbar() {
-  const [activeLink, setActiveLink] = useState('/');
+  const [activeLink, setActiveLink] = useState("/");
 
   const navItems = [
     {
@@ -28,7 +28,7 @@ function Navbar() {
 
   return (
     <>
-      <div className="mt-4 max-w-[90rem] mx-auto p-auto ">
+      <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 ">
         <div className="flex justify-between items-center py-4 mx-8">
           <div className="flex items-center">
             <div className="dropdown">
@@ -87,12 +87,21 @@ function Navbar() {
               </ul>
             </div>
             <div className="hidden md:block">
-              <label className="input flex items-center gap-2">
-                <input type="text" className="grow bg-white" placeholder="Search" />
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="w-4 h-4 opacity-70">
-                  <path fillRule="evenodd" d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" clipRule="evenodd" />
+              
+              <label className="flex items-center gap-2 bg-white border border-slate-400 border-spacing-2 px-4 py-2 rounded-md">
+                
+                <input type="text" className="text-black bg-transparent outline-none" placeholder="Search" />
+                
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5 ">
+                
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
                 </svg>
+
               </label>
+              
+              
+              
+            
             </div>
 
             <div className='swap '>
