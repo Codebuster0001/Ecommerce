@@ -1,0 +1,55 @@
+ 
+[
+{
+  "id": 1,
+  "name": "Story Books",
+  "title": "Jack and the Beanstalk",
+  "price": 9.99,
+
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+},
+{
+  "id": 2,
+  "name": "Food",
+  "title":"Food and Drink",
+  "price": 9.99,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+
+ 
+},
+{
+  "id": 3,
+  "name": "Novel",
+  "title": "Leave The World Behind",
+  "price": 9.99,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+},
+{
+  "id": 4,
+  "name": "Scoreery",
+  "title": "SORCERY OF THORNS ",
+  "price": 9.99,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+},
+{
+  "id": 5,
+  "name": "Story Books",
+  "title": "Jack and the Beanstalk",
+  "price": 9.99,
+  "category": "Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+},
+{
+  "id": 6,
+  "name": "Story Books",
+  "title": "Jack and the Beanstalk",
+  "price": 9.99,
+  "category": "Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1714987112~exp=1714987712~hmac=fd2c54ff875618683aafb4f26a9ef15acfb5136cbf4b11d642ccdff2276557ca"
+
+}
+]
