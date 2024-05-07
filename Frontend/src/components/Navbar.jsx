@@ -140,7 +140,6 @@ function Navbar() {
               <a  className="btn px-6 py-1 rounded-full ml-4 lg:ml-0 bg-slate-50 text-black hover:text-white"
               onClick={()=>document.getElementById("my_modal_3").showModal()}>
               Login
-               
               </a>
                  <Login/>
             </div>
